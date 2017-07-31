@@ -1,2 +1,6 @@
-# Impractical_Assasins
-Unfinished 4 hours of work
+# Impractical Assasins
+## Unfinished, and probably nevere will be
+Core gameplay is here, but everything else is missing lol
+Was planning on making classes and shit 
+
+maybe
