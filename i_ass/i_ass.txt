@@ -1,0 +1,9 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Impractical Assasins"
+	"maps"		"^gm_|^ttt_"
+	"menusystem"	"1"
+	"workshopid"	""
+	
+}
